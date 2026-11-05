@@ -1,4 +1,4 @@
-## Interface: 110002
+## Interface: 110002, 16001
 ## Title: |A:::|a|TInterface\Addons\Sorted\Textures\Addon-Text_:0:0|t • Scrap Plugin
 ## Notes: Replaces Sorted's built-in trash handling with Scrap's.
 ## Version: 1.1.1
